@@ -1,11 +1,1 @@
-
-  # Sultan Uyar
-
-  This is a code bundle for Sultan Uyar. The original project is available at https://www.figma.com/design/o5HRZizFuMvyVegaxEoum2/Sultan-Uyar.
-
-  ## Running the code
-
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  
+Kişisel sayfamı hazırladım! Front-end geliştirme becerilerimi sergileyebileceğim, modern ve sade bir portfolyo sitesi tasarladım. HTML ile sayfa yapısını oluşturdum, CSS ile görsel tasarımını şekillendirdim, JavaScript ile etkileşimler ekledim ve TypeScript kullanarak kod yapısını daha güvenli, ölçeklenebilir ve hataya dayanıklı hale getirdim.
